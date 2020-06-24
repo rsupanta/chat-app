@@ -5,7 +5,7 @@ Just input username and room name to join.<br/>
 Users can create room and join. Can send messages and share their current location.<br/>
 Users can't send any bad words. All bad words are blocked!<br/>
 
-<a href="https://rsupanta-chat.herokuapp.com/">Click here</a> to visit the App.<br/>
+<a target='_blank' style='font-weight: bold' href="https://rsupanta-chat.herokuapp.com/">Click here</a> to visit the App.<br/>
 
 It was made using Node.js, Express.js and Socket.io<br/>
 For frontend, I've used vanilla JS and Mustache template.<br/>
